@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Vladimir and I'm from Vladivostok, Russia<br><br>I'm a student of the Moscow Aviation Institute 8 faculty<br><br>Currently learning C and C++</h2>
+<h2 align="center">Hi 👋! My name is Krasotka and I'm from Moscow, Russia<br><br>I'm a student of the Moscow Aviation Institute 8 faculty<br><br>Currently learning C and C++</h2>
 
 ###
 
