@@ -7,28 +7,10 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="cplusplus logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vim" height="70" alt="vim logo"  />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=linux" height="70" alt="linux logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css" height="70" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=html" height="70" alt="html5 logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=django" height="70" alt="django logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@qwental1353" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://t.me/qwental" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
 </div>
 
 ###
