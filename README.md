@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ilya and I'm a student of the Moscow Aviation Institute 8 faculty<br>
+<h2 align="center">Hi 👋! My name is Ilya and I'm a student of the Moscow Aviation Institute 8th faculty<br>
 
 ###
 
